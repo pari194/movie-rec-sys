@@ -57,5 +57,6 @@ def main():
     # Get and display recommendations
     recommendations = recommend(movie, df, cosine_sim)
     print("Recommendations:", recommendations)
+
 if _name_ == "_main_":
-    main()
+    main()
