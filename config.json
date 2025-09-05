@@ -1,0 +1,6 @@
+{
+    "aws": {
+        "s3_bucket": "your-movie-recommendation-bucket",
+        "region": "us-east-1"
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "input_movie": "Inception",
+  "recommendations": [
+    {
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "year": 
